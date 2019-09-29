@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_one"
+        android:title="Dr. Sanjay Kothari"
+        android:titleCondensed="SANJAY_K" />
+    <item
+        android:id="@+id/item_two"
+        android:title="Dr. Meeena Jain"
+        android:titleCondensed="MEENA_J" />
+    <item
+        android:id="@+id/item_three"
+        android:title="Dr. Strange"
+        android:titleCondensed="STRANGE" />
+
+</menu>

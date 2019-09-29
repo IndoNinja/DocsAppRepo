@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DocsAppRepo</string>
+    <string name="activity_title">ChatBot</string>
+
+    <string name="mesg_label">Type a message</string>
+    
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

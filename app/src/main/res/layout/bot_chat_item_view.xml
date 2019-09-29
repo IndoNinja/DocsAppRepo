@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="80dp"
+    android:background="@drawable/chat_bubble_bot_outline">
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Hi Hello Deocor"
+        android:textColor="@android:color/background_dark"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="4:16 pm"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="12dp" />
+
+</RelativeLayout>
